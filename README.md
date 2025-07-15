@@ -23,7 +23,8 @@
 
 ## 🇧🇷 Sobre mim
 
-🔭 Atualmente atuo como **freelancer**, desenvolvendo websites, e-commerces, aplicações web e sistemas administrativos.  
+🔭 Atualmente atuo como **freelancer**, desenvolvendo websites, e-commerces, aplicações web e sistemas administrativos.
+⚙️ Comprometido em criar soluções modernas, funcionais e com propósito, focadas em performance.
 👨‍⚕️ Já trabalhei com aplicativos WebView com integração nativa (iOS) para clínicas médicas, SPAs, landing pages e soluções diversas.  
 ✨ Utilizo ferramentas como: Tailwind CSS, Styled-components, Stitches, CSS Modules, Shadcn, Radix UI, Material UI, Context API, Zod, Yup, React Query, Axios, React Hook Form, React Router DOM.  
 🌱 Atualmente estudando **Node.js** pela Rocketseat. Já desenvolvi 2 aplicações: uma usando **Fastify**, outra com **Prisma**.  
@@ -33,7 +34,8 @@
 
 ## 🇺🇸 About Me
 
-🔭 I currently work as a **freelancer**, building websites, e-commerce platforms, web applications, and back-office systems.  
+🔭 I currently work as a **freelancer**, building websites, e-commerce platforms, web applications, and back-office systems.
+⚙️ Committed to creating modern, functional, and purposeful solutions, focused on performance and user experience.
 👨‍⚕️ I’ve developed WebView apps with native integration (iOS) for medical clinics, SPAs, landing pages, and more.  
 ✨ My tech stack includes: Tailwind CSS, Styled-components, Stitches, CSS Modules, Shadcn, Radix UI, Material UI, Context API, Zod, Yup, React Query, Axios, React Hook Form, and React Router DOM.  
 🌱 Currently studying **Node.js** through Rocketseat. I’ve built 2 apps: one with **Fastify**, another with **Prisma**.  
@@ -57,20 +59,6 @@
 ## 📄 Currículo | Resume
 
 📄 [Download Resume](https://devluizalthman.vercel.app/files/cv-luiz-althman-2025.pdf)
-
----
-
-
-## ⚡ Curiosidade | Fun fact
-
-**Sou extrovertido, amo fazer amizades e curtir jogos de FPS 🎮**  
-**I’m outgoing, love making friends, and enjoy FPS games 🎮**
-
----
-
-## 🛠️ Stack de Tecnologias | Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,prisma,tailwind,git,github)](https://skillicons.dev)
 
 ---
 
