@@ -82,6 +82,8 @@
 
 ---
 
+<p align="center">🎮 Pac-Man Contribution Graph</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Luiz-Althman/Luiz-Althman/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
 </p>
