@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luiz%20Althman&fontSize=40&fontAlign=center)
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Frontend+Developer;Freelancer+from+Brazil;React+%7C+Vue+%7C+GSAP+%7C+Node.js+lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Frontend+Developer;Freelancer+from+Brazil;React+%7C+Next.js+%7C+Node.js+lover" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 🔭 Atualmente atuo como **freelancer**, desenvolvendo websites, e-commerces, aplicações web e sistemas administrativos.  
 👨‍⚕️ Já trabalhei com aplicativos WebView com integração nativa (iOS) para clínicas médicas, SPAs, landing pages e soluções diversas.  
-✨ Utilizo ferramentas como: Tailwind CSS, Styled-components, Stitches, CSS Modules, Shadcn, Radix UI, Material UI, Context API, Zod, Yup, React Query, Axios, React Hook Form e React Router DOM.  
+✨ Utilizo ferramentas como: Tailwind CSS, Styled-components, Stitches, CSS Modules, Shadcn, Radix UI, Material UI, Context API, Zod, Yup, React Query, Axios, React Hook Form, React Router DOM.  
 🌱 Atualmente estudando **Node.js** pela Rocketseat. Já desenvolvi 2 aplicações: uma usando **Fastify**, outra com **Prisma**.  
 💡 Tenho experiência com **Drizzle** e **Gemini**, ambos integrados a APIs próprias.
 
@@ -54,18 +54,18 @@
 
 ---
 
-## 📝 Blog & Currículo | Resume
+## 📄 Currículo | Resume
 
-- ✍️ Blog: [https://meublog.dev](https://meublog.dev) <!-- Substituir se tiver blog real -->
-- 📄 Currículo: [Download Resume](https://devluizalthman.vercel.app/files/cv-luiz-althman-2025.pdf)
+📄 [Download Resume](https://devluizalthman.vercel.app/files/cv-luiz-althman-2025.pdf)
 
 ---
 
 ## 💬 Me pergunte sobre | Ask me about
 
 - React  
-- Vue  
-- GSAP (GreenSock Animation Platform)
+- Next.js  
+- Vite.js  
+- Tailwind CSS
 
 ---
 
@@ -78,23 +78,23 @@
 
 ## 🛠️ Stack de Tecnologias | Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vitejs,nodejs,fastify,prisma,tailwind,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,prisma,tailwind,git,github)](https://skillicons.dev)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizalthman&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizalthman&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luiz-Althman&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Althman&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 ---
 
 ## 📈 Gráfico de Atividade | Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luizalthman&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luiz-Althman&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Obrigado%20por%20visitar!%20Thanks%20for%20stopping%20by!&fontSize=20)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:3498db&height=100&section=footer&text=Obrigado%20por%20visitar!%20Thanks%20for%20stopping%20by!&fontSize=20)
