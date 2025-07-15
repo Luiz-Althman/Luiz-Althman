@@ -24,10 +24,15 @@
 ## 🇧🇷 Sobre mim
 
 🔭 Atualmente atuo como **freelancer**, desenvolvendo websites, e-commerces, aplicações web e sistemas administrativos.
+
 ⚙️ Comprometido em criar soluções modernas, funcionais e com propósito, focadas em performance.
-👨‍⚕️ Já trabalhei com aplicativos WebView com integração nativa (iOS) para clínicas médicas, SPAs, landing pages e soluções diversas.  
-✨ Utilizo ferramentas como: Tailwind CSS, Styled-components, Stitches, CSS Modules, Shadcn, Radix UI, Material UI, Context API, Zod, Yup, React Query, Axios, React Hook Form, React Router DOM.  
+
+👨‍⚕️ Já trabalhei com aplicativos WebView com integração nativa (iOS) para clínicas médicas, SPAs, landing pages e soluções diversas. 
+
+✨ Utilizo ferramentas como: Tailwind CSS, Styled-components, Stitches, CSS Modules, Shadcn, Radix UI, Material UI, Context API, Zod, Yup, React Query, Axios, React Hook Form, React Router DOM. 
+
 🌱 Atualmente estudando **Node.js** pela Rocketseat. Já desenvolvi 2 aplicações: uma usando **Fastify**, outra com **Prisma**.  
+
 💡 Tenho experiência com **Drizzle** e **Gemini**, ambos integrados a APIs próprias.
 
 ---
@@ -35,10 +40,15 @@
 ## 🇺🇸 About Me
 
 🔭 I currently work as a **freelancer**, building websites, e-commerce platforms, web applications, and back-office systems.
+
 ⚙️ Committed to creating modern, functional, and purposeful solutions, focused on performance and user experience.
+
 👨‍⚕️ I’ve developed WebView apps with native integration (iOS) for medical clinics, SPAs, landing pages, and more.  
+
 ✨ My tech stack includes: Tailwind CSS, Styled-components, Stitches, CSS Modules, Shadcn, Radix UI, Material UI, Context API, Zod, Yup, React Query, Axios, React Hook Form, and React Router DOM.  
+
 🌱 Currently studying **Node.js** through Rocketseat. I’ve built 2 apps: one with **Fastify**, another with **Prisma**.  
+
 💡 I also have experience using **Drizzle** and **Gemini**, both integrated with my APIs.
 
 ---
