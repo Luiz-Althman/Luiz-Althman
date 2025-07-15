@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luiz%20Althman&fontSize=40&fontAlign=center)
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Frontend+Developer;Freelancer+from+Brazil;React+%7C+Next.js+%7C+Vite.js+lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Frontend+Developer;React+%7C+Next.js+%7C+Vite.js+lover" alt="Typing SVG" />
 </h3>
 
 <p align="center">
