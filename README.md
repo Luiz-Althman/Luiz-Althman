@@ -93,6 +93,3 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luiz-Althman&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Obrigado%20por%20visitar!%20Thanks%20for%20stopping%20by!&fontSize=20)
