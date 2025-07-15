@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luiz%20Althman&fontSize=40&fontAlign=center)
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Frontend+Developer;Freelancer+from+Brazil;React+%7C+Next.js+%7C+Node.js+lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Frontend+Developer;Freelancer+from+Brazil;React+%7C+Next.js+%7C+Vite.js+lover" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -60,14 +60,6 @@
 
 ---
 
-## 💬 Me pergunte sobre | Ask me about
-
-- React  
-- Next.js  
-- Vite.js  
-- Tailwind CSS
-
----
 
 ## ⚡ Curiosidade | Fun fact
 
@@ -81,8 +73,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,prisma,tailwind,git,github)](https://skillicons.dev)
 
 ---
-
-<p align="center">🎮 Pac-Man Contribution Graph</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Luiz-Althman/Luiz-Althman/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
