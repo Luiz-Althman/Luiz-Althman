@@ -95,4 +95,4 @@
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:3498db&height=100&section=footer&text=Obrigado%20por%20visitar!%20Thanks%20for%20stopping%20by!&fontSize=20)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Obrigado%20por%20visitar!%20Thanks%20for%20stopping%20by!&fontSize=20)
