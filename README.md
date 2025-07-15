@@ -82,6 +82,13 @@
 
 ---
 
+<!-- 🎮 PACMAN -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kittinan/kittinan/master/pacman.svg" alt="Pacman eating dots" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
